@@ -48,9 +48,9 @@ Tecnologias: Python, SQLite, Flask
 
 ## 🤝 Vamos nos conectar?
 
-- [LinkedIn]([https://www.linkedin.com/in/seu-usuario](https://www.linkedin.com/in/f%C3%A1bio-d-b39050209/)  
-- [GitHub]([https://github.com/seu-usuario](https://github.com/fabiodmu-ux)  
-- Email: fabiodmu@gamil.com
+- [LinkedIn](https://www.linkedin.com/in/f%C3%A1bio-d-b39050209/)  
+- [GitHub](https://github.com/fabiodmu-ux)  
+- Email: fabiodmu@gmail.com
 
 ---
 
