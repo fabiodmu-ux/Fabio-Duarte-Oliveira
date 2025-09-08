@@ -19,13 +19,9 @@ Busco unir a disciplina e o senso de missão da carreira militar com as boas pr�
 ---
 
 ## 🧠 Tecnologias e Conhecimentos
-
-- *Linguagens*: Python | Java | JavaScript | SQL  
-- *Banco de Dados*: MySQL | PostgreSQL | SQLite  
-- *Desenvolvimento Web*: HTML5 | CSS3 | Node.js | React  
-- *Segurança da Informação*: Princípios de Cibersegurança | Criptografia | Autenticação | Controle de Acesso  
-- *Ferramentas*: Git & GitHub | VS Code | Linux | Figma  
-- *Metodologias*: Lógica de Programação | POO | Clean Code
+   
+- *Segurança da Informação*: Princípios de Cibersegurança | Criptografia | Controle de Acesso  
+- *Formatçao de computadores e notebooks
 
 ---
 
