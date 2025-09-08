@@ -21,7 +21,7 @@ Busco unir a disciplina e o senso de missão da carreira militar com as boas pr�
 ## 🧠 Tecnologias e Conhecimentos
    
 - *Segurança da Informação*: Princípios de Cibersegurança | Criptografia | Controle de Acesso  
-- *Formatçao de computadores e notebooks
+- *Formataçao de computadores e notebooks
 
 ---
 
